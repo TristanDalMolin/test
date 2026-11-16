@@ -1,0 +1,222 @@
+{ "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"..\/..\/..\/..\/tilemaps\/alpha\/2AlphaPath\/1-Depths\/3-fall.tmj"
+        }
+    },
+ "height":10,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[0, 0, 0, 0, 167, 168, 168, 168, 168, 168, 168, 168, 168, 168, 168, 168, 169, 0, 0, 0,
+            0, 0, 0, 167, 263, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 264, 169, 0, 0,
+            0, 0, 167, 263, 0, 0, 0, 0, 0, 200, 200, 200, 200, 200, 200, 200, 200, 201, 0, 0,
+            0, 0, 199, 200, 0, 0, 0, 0, 0, 200, 200, 200, 200, 200, 200, 200, 200, 201, 0, 0,
+            0, 0, 199, 200, 0, 0, 0, 0, 0, 200, 200, 200, 200, 200, 200, 200, 200, 201, 0, 0,
+            0, 0, 231, 295, 0, 0, 0, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 201, 0, 0,
+            0, 0, 0, 199, 200, 0, 0, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 201, 0, 0,
+            0, 0, 0, 231, 295, 0, 0, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 201, 0, 0,
+            0, 0, 0, 0, 231, 232, 232, 232, 232, 232, 232, 232, 232, 232, 232, 232, 232, 233, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":10,
+         "id":1,
+         "name":"Ground",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 685, 674, 674, 674, 674, 674, 674, 674, 674, 674, 674, 674, 686, 0, 0, 0,
+            0, 0, 0, 685, 678, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 679, 686, 0, 0,
+            0, 0, 685, 678, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 677, 0, 0,
+            0, 0, 676, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 677, 0, 0,
+            0, 0, 676, 0, 0, 0, 0, 0, 675, 0, 0, 0, 0, 0, 0, 0, 0, 677, 0, 0,
+            0, 0, 683, 680, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 677, 0, 0,
+            0, 0, 0, 676, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 677, 0, 0,
+            0, 0, 0, 683, 680, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 677, 0, 0,
+            0, 0, 0, 0, 683, 675, 675, 675, 675, 675, 675, 675, 675, 675, 675, 675, 675, 684, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":10,
+         "id":2,
+         "name":"Collision",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":3,
+         "name":"Objects",
+         "objects":[
+                {
+                 "height":0,
+                 "id":2,
+                 "name":"spawn:default",
+                 "opacity":1,
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":261.666666666667,
+                 "y":53.3333333333333
+                }, 
+                {
+                 "height":17.625,
+                 "id":8,
+                 "name":"interact:no_return",
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"dialogueIds",
+                         "type":"string",
+                         "value":"3.end"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":24.375,
+                 "x":123.9375,
+                 "y":67.375
+                }, 
+                {
+                 "height":23.5,
+                 "id":9,
+                 "name":"door:fall",
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"targetScene",
+                         "type":"string",
+                         "value":"depths-main-4"
+                        }, 
+                        {
+                         "name":"targetSpawn",
+                         "type":"string",
+                         "value":"default"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":55,
+                 "x":72.0681818181818,
+                 "y":38.25
+                }, 
+                {
+                 "height":102,
+                 "id":10,
+                 "name":"event:start",
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"onSpawn",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"steps",
+                         "type":"string",
+                         "value":"[{\"type\": \"dialogue\", \"dialogueId\": \"3.fall\", \"delay\": 100}]"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":114.5,
+                 "x":190.340517018749,
+                 "y":13.1289189607975
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":4,
+         "name":"DecorBelow",
+         "objects":[
+                {
+                 "gid":700,
+                 "height":16,
+                 "id":11,
+                 "name":"",
+                 "opacity":1,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":128,
+                 "y":80
+                }, 
+                {
+                 "gid":697,
+                 "height":35.1761363636364,
+                 "id":12,
+                 "name":"",
+                 "opacity":1,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":35.1761363636364,
+                 "x":100.8125,
+                 "y":68
+                }, 
+                {
+                 "gid":696,
+                 "height":35.1761363636364,
+                 "id":13,
+                 "name":"",
+                 "opacity":1,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":35.1761363636364,
+                 "x":65.6363636363636,
+                 "y":68
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":5,
+ "nextobjectid":14,
+ "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"cameraZoom",
+         "type":"float",
+         "value":4
+        }],
+ "renderorder":"right-down",
+ "tiledversion":"1.12.2",
+ "tileheight":16,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"..\/..\/..\/tilesets\/caves.tsx"
+        }, 
+        {
+         "firstgid":673,
+         "source":"..\/..\/..\/tilesets\/collision.tsx"
+        }, 
+        {
+         "firstgid":693,
+         "source":"..\/..\/..\/tilesets\/objects16.tsx"
+        }],
+ "tilewidth":16,
+ "type":"map",
+ "version":"1.10",
+ "width":20
+}

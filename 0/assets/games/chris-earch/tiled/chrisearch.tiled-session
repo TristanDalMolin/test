@@ -1,0 +1,1721 @@
+{
+    "activeFile": "alpha/2AlphaPath/1-Depths/0-Entrance.tmj",
+    "expandedProjectPaths": [
+        "alpha/01- Introduction",
+        "alpha/2AlphaPath/1-Depths",
+        "alpha/02- 3eme Chute",
+        "alpha/2AlphaPath/3-Abyss",
+        "alpha/1Introduction",
+        "alpha/2AlphaPath/4-Loop",
+        "alpha/04- Choix final",
+        "alpha/2AlphaPath/2-Bottom",
+        "tilesets",
+        "alpha/2AlphaPath/4eme-chute",
+        "alpha/2AlphaPath",
+        "alpha/2AlphaPath/5",
+        "alpha/2AlphaPath/5eme-chute",
+        "alpha/03- 4eme Chute",
+        "alpha",
+        ".",
+        "alpha/templates"
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        },
+        "01- Introduction/IntroMap-03.tmj": {
+            "scale": 0.054443359375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 8054.242152466368,
+                "y": 3636.807174887892
+            }
+        },
+        "01- Introduction/IntroMap-03.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "01.5-CheminAlpha/3eme Chute/01-Entree.tmj": {
+            "scale": 0.25962009803921565,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 190.6632050979465,
+                "y": 1633.1555345763513
+            }
+        },
+        "01.5-CheminAlpha/3eme Chute/01-Entree.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "01.5-CheminAlpha/3eme Chute/02-PiecePrincipale1.tmj": {
+            "scale": 0.28171542553191486,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1439.395798914326,
+                "y": 1505.0649044135002
+            }
+        },
+        "01.5-CheminAlpha/3eme Chute/02-PiecePrincipale1.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "01.5-CheminAlpha/3eme Chute/03-Room4-1.tmj": {
+            "scale": 0.22828663793103446,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1474.0240736370074,
+                "y": 1857.314137361341
+            }
+        },
+        "01.5-CheminAlpha/3eme Chute/03-Room4-1.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "01.5-CheminAlpha/3eme Chute/06-PiecePrincipale3.tmj": {
+            "scale": 0.28171542553191486,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1439.395798914326,
+                "y": 1505.0649044135002
+            }
+        },
+        "01.5-CheminAlpha/3eme Chute/06-PiecePrincipale3.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "01.5-CheminAlpha/3eme Chute/07-Room1-1.tmj": {
+            "scale": 0.25462740384615384,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1152.6646211942414,
+                "y": 1665.1781921170639
+            }
+        },
+        "01.5-CheminAlpha/3eme Chute/07-Room1-1.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "01.5-CheminAlpha/3eme Chute/08-Room2-1.tmj": {
+            "scale": 0.20728860294117646,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2718.4321376313574,
+                "y": 1823.5445395291092
+            }
+        },
+        "01.5-CheminAlpha/3eme Chute/08-Room2-1.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "C:/Users/miste/Documents/GitHub/SiteN0Realis/SiteN0Realis/src/Neant/public/assets/games/chris-earch/tilemaps/alpha/2AlphaPath/3-Abyss/2.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 452.66666666666663,
+                "y": 451.33333333333326
+            }
+        },
+        "C:/Users/miste/Documents/GitHub/SiteN0Realis/SiteN0Realis/src/Neant/public/assets/games/chris-earch/tilemaps/alpha/2AlphaPath/3-Abyss/2.tmj#caves": {
+            "scaleInDock": 1
+        },
+        "C:/Users/miste/Documents/GitHub/SiteN0Realis/SiteN0Realis/src/Neant/public/assets/games/chris-earch/tilemaps/alpha/2AlphaPath/3-Abyss/2.tmj#collision": {
+            "scaleInDock": 1
+        },
+        "C:/Users/miste/Documents/GitHub/SiteN0Realis/SiteN0Realis/src/Neant/public/assets/games/chris-earch/tilemaps/alpha/2AlphaPath/3-Abyss/2.tmj#objects16": {
+            "scaleInDock": 1
+        },
+        "C:/Users/trist/PhpstormProjects/SiteN0Realis/src/Neant/public/assets/games/chris-earch/tilesets/caves.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/trist/PhpstormProjects/SiteN0Realis/src/Neant/public/assets/games/chris-earch/tilesets/collision.tsx": {
+            "scaleInDock": 1
+        },
+        "alpha/01- Introduction/IntroMap-01.tmj": {
+            "scale": 0.125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 3524,
+                "y": 8476
+            }
+        },
+        "alpha/01- Introduction/IntroMap-01.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.25
+        },
+        "alpha/01- Introduction/IntroMap-01.tmj#MapIntro-TileSet_x10_0": {
+            "scaleInDock": 1
+        },
+        "alpha/01- Introduction/IntroMap-01.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/01- Introduction/IntroMap-02.tmj": {
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 3234,
+                "y": 964
+            }
+        },
+        "alpha/01- Introduction/IntroMap-02.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "alpha/01- Introduction/IntroMap-02.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/01- Introduction/IntroMap-02.tmj#MapIntro-TileSet_x8_0": {
+            "scaleInDock": 1
+        },
+        "alpha/01- Introduction/IntroMap-03.tmj": {
+            "scale": 0.0625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2344,
+                "y": 632
+            }
+        },
+        "alpha/01- Introduction/IntroMap-03.tmj#MapIntro-TileSet": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "alpha/01- Introduction/IntroMap-03.tmj#MapIntro-TileSet_x10_0": {
+            "scaleInDock": 1
+        },
+        "alpha/01- Introduction/IntroMap-03.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/02- 3eme Chute/01-Entree.tmj": {
+            "scale": 0.25962009803921565,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 190.6632050979465,
+                "y": 1633.1555345763513
+            }
+        },
+        "alpha/02- 3eme Chute/01-Entree.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/02- 3eme Chute/02-PiecePrincipale1.tmj": {
+            "scale": 0.28171542553191486,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1439.395798914326,
+                "y": 1505.0649044135002
+            }
+        },
+        "alpha/02- 3eme Chute/02-PiecePrincipale1.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/02- 3eme Chute/03-Room4-1.tmj": {
+            "scale": 0.22828663793103446,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1474.0240736370074,
+                "y": 1857.314137361341
+            }
+        },
+        "alpha/02- 3eme Chute/03-Room4-1.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/02- 3eme Chute/04-PiecePrincipale2.tmj": {
+            "scale": 0.28171542553191486,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1439.395798914326,
+                "y": 1505.0649044135002
+            }
+        },
+        "alpha/02- 3eme Chute/04-PiecePrincipale2.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/02- 3eme Chute/05-Room3-1.tmj": {
+            "scale": 0.4565732758620689,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1074.307292895917,
+                "y": 869.5208874203446
+            }
+        },
+        "alpha/02- 3eme Chute/05-Room3-1.tmj#MapIntro-TileSet": {
+            "scaleInDock": 0.5
+        },
+        "alpha/02- 3eme Chute/07-Room1-1.tmj": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1228.7878787878788,
+                "y": 1581.8181818181818
+            }
+        },
+        "alpha/02- 3eme Chute/07-Room1-1.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/02- 3eme Chute/08-Room2-1.tmj": {
+            "scale": 0.20728860294117646,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2930.696581386069,
+                "y": 1736.7090852658182
+            }
+        },
+        "alpha/02- 3eme Chute/08-Room2-1.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/02- 3eme Chute/09-PiecePrincipale4.tmj": {
+            "scale": 0.28171542553191486,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1851.1588388010389,
+                "y": 1355.9782865234838
+            }
+        },
+        "alpha/02- 3eme Chute/09-PiecePrincipale4.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/02- 3eme Chute/10-PiecePrincipale5.tmj": {
+            "scale": 0.28171542553191486,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2078.3384470143974,
+                "y": 1295.6337030918103
+            }
+        },
+        "alpha/02- 3eme Chute/10-PiecePrincipale5.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/02- 3eme Chute/11-Room1-2.tmj": {
+            "scale": 0.25462740384615384,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1152.6646211942414,
+                "y": 1665.1781921170639
+            }
+        },
+        "alpha/02- 3eme Chute/11-Room1-2.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/02- 3eme Chute/11-Room2-2.tmj": {
+            "scale": 0.20728860294117646,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2718.4321376313574,
+                "y": 1982.742872345143
+            }
+        },
+        "alpha/02- 3eme Chute/11-Room2-2.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/02- 3eme Chute/11-Room3-2.tmj": {
+            "scale": 0.307921511627907,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1534.4819447722446,
+                "y": 1376.974274250649
+            }
+        },
+        "alpha/02- 3eme Chute/11-Room3-2.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/02- 3eme Chute/11-Room4-2.tmj": {
+            "scale": 0.22828663793103446,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2104.8100070804817,
+                "y": 1730.2808590984187
+            }
+        },
+        "alpha/02- 3eme Chute/11-Room4-2.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/02- 3eme Chute/12-AucunRetourPossible.tmj": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 745,
+                "y": 76
+            }
+        },
+        "alpha/02- 3eme Chute/12-AucunRetourPossible.tmj#MapIntro-TileSet": {
+            "scaleInDock": 0.0625
+        },
+        "alpha/02- 3eme Chute/PiecePrincipale.tmj": {
+            "scale": 0.28171542553191486,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1748.2180788293608,
+                "y": 1441.170639603493
+            }
+        },
+        "alpha/02- 3eme Chute/PiecePrincipale.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/03- 4eme Chute/01-Entree.tmj": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 854,
+                "y": 2480
+            }
+        },
+        "alpha/03- 4eme Chute/01-Entree.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/03- 4eme Chute/02-Labyrinthe1.tmj": {
+            "scale": 0.22828663793103446,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2915.1947132405003,
+                "y": 1546.3016285107387
+            }
+        },
+        "alpha/03- 4eme Chute/02-Labyrinthe1.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/03- 4eme Chute/03-Labyrinthe2.tmj": {
+            "scale": 0.2648125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1727.6374793485954,
+                "y": 1601.1328770356383
+            }
+        },
+        "alpha/03- 4eme Chute/03-Labyrinthe2.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/03- 4eme Chute/04-Labyrinthe3.tmj": {
+            "scale": 0.2006155303030303,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2205.71158838801,
+                "y": 2113.4953976870424
+            }
+        },
+        "alpha/03- 4eme Chute/04-Labyrinthe3.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/03- 4eme Chute/05-Labyrinthe4.tmj": {
+            "scale": 0.17797506313131312,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3261.6929011661423,
+                "y": 1882.2861703542771
+            }
+        },
+        "alpha/03- 4eme Chute/05-Labyrinthe4.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/04- Choix final/01-ChoixFinal.tmj": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 795.4545454545453,
+                "y": 4433.333333333334
+            }
+        },
+        "alpha/04- Choix final/01-ChoixFinal.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/04- Choix final/02-FinTrou.tmj": {
+            "scale": 0.21355846774193546,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1538.2204389898513,
+                "y": 1985.404767524192
+            }
+        },
+        "alpha/04- Choix final/02-FinTrou.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/04- Choix final/03-VraieFin.tmj": {
+            "scale": 0.20022194602272725,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2814.3768013124645,
+                "y": 799.1132000177361
+            }
+        },
+        "alpha/04- Choix final/03-VraieFin.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/04- Choix final/04-CheminVersLeVide.tmj": {
+            "scale": 0.22882508116883116,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2462.5797011484065,
+                "y": 257.83886844322274
+            }
+        },
+        "alpha/04- Choix final/04-CheminVersLeVide.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/04- Choix final/05-CheminFinal2.tmj": {
+            "scale": 0.2648125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1470.8520179372194,
+                "y": 1601.1328770356383
+            }
+        },
+        "alpha/04- Choix final/05-CheminFinal2.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/04- Choix final/06-CheminFinal3.tmj": {
+            "scale": 0.2648125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1470.8520179372194,
+                "y": 1601.1328770356383
+            }
+        },
+        "alpha/04- Choix final/06-CheminFinal3.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/04- Choix final/07-CheminFinal4.tmj": {
+            "scale": 0.23643973214285713,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1791.1541184800567,
+                "y": 1793.2688222799152
+            }
+        },
+        "alpha/04- Choix final/07-CheminFinal4.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/04- Choix final/08-CheminFinal5.tmj": {
+            "scale": 0.5506103515624999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1023.4097459318052,
+                "y": 192.51363454972739
+            }
+        },
+        "alpha/04- Choix final/08-CheminFinal5.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/04- Choix final/09-CheminFinal6.tmj": {
+            "scale": 0.38303328804347825,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1471.1515097769698,
+                "y": 1088.6782246264356
+            }
+        },
+        "alpha/04- Choix final/09-CheminFinal6.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/04- Choix final/10-CheminFinal7.tmj": {
+            "scale": 0.27584635416666664,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1952.1737078121316,
+                "y": 1537.087561954213
+            }
+        },
+        "alpha/04- Choix final/10-CheminFinal7.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/04- Choix final/11-CheminFinal8.tmj": {
+            "scale": 0.125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 644,
+                "y": 1848
+            }
+        },
+        "alpha/04- Choix final/11-CheminFinal8.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/04- Choix final/13-BoucleFinale1.tmj": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3684,
+                "y": 1920
+            }
+        },
+        "alpha/04- Choix final/13-BoucleFinale1.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/04- Choix final/14-BoucleFinale2.tmj": {
+            "scale": 0.20022194602272725,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2814.3768013124645,
+                "y": 1378.4702700305947
+            }
+        },
+        "alpha/04- Choix final/14-BoucleFinale2.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/04- Choix final/15-BoucleFinale3.tmj": {
+            "scale": 0.0625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4440,
+                "y": 12624
+            }
+        },
+        "alpha/04- Choix final/15-BoucleFinale3.tmj#MapIntro-TileSet": {
+            "scaleInDock": 1
+        },
+        "alpha/1Introduction/IntroMap-01.tmj": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.125,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 5316,
+                "y": 10448
+            }
+        },
+        "alpha/1Introduction/IntroMap-01.tmj#MapIntro-TileSet_x10_0": {
+            "scaleInDock": 0.0625,
+            "scaleInEditor": 0.33
+        },
+        "alpha/1Introduction/IntroMap-01.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/1Introduction/IntroMap-02.tmj": {
+            "scale": 0.17188387784090908,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4183.056660296472,
+                "y": 1585.3726563710552
+            }
+        },
+        "alpha/1Introduction/IntroMap-02.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/1Introduction/IntroMap-02.tmj#MapIntro-TileSet_x8_0": {
+            "scaleInDock": 1
+        },
+        "alpha/1Introduction/IntroMap-03.tmj": {
+            "scale": 0.11736458333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2402.7691488417504,
+                "y": 643.2945770835186
+            }
+        },
+        "alpha/1Introduction/IntroMap-03.tmj#MapIntro-TileSet_x10_0": {
+            "scaleInDock": 1
+        },
+        "alpha/1Introduction/IntroMap-03.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/1Introduction/IntroMap.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 56,
+                "y": 160
+            }
+        },
+        "alpha/1Introduction/IntroMap1.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 319.99999999999994,
+                "y": 400
+            }
+        },
+        "alpha/1Introduction/IntroMap1.tmj#caves": {
+            "scaleInDock": 3
+        },
+        "alpha/1Introduction/IntroMap1.tmj#collision": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "alpha/1Introduction/IntroMap2.tmj": {
+            "expandedObjectLayers": [
+                5,
+                3
+            ],
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 559.9999999999999,
+                "y": 480
+            }
+        },
+        "alpha/1Introduction/IntroMap3.tmj": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 479.99999999999994,
+                "y": 320
+            }
+        },
+        "alpha/1Introduction/IntroMap4.tmj": {
+            "expandedGroupLayers": [
+                3
+            ],
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 479.99999999999994,
+                "y": 240
+            }
+        },
+        "alpha/1Introduction/RosieFight.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 295.33333333333337,
+                "y": 149.33333333333334
+            }
+        },
+        "alpha/1Introduction/objects16.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 5.5,
+            "scaleInEditor": 1
+        },
+        "alpha/2AlphaPath/01-EntreeAlpha.tmj": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.29527027027027025,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 704.4393592677346,
+                "y": 856.8421052631579
+            }
+        },
+        "alpha/2AlphaPath/01-EntreeAlpha.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/01-EntreeAlpha.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/1-Depths/0-Entrance.tmj": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 121.5,
+                "y": 933.5
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/1-1.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 398.66666666666663,
+                "y": 529.6666666666666
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/1-4.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 327,
+                "y": 424
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/1-Entrance.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 113,
+                "y": 214.5
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/1.tmj": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320,
+                "y": 320
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/2-1.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 171.75,
+                "y": 258
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/2-2.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 550.25,
+                "y": 431.5
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/2-MainRoom.tmj": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 326,
+                "y": 225.5
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/2.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 319.99999999999994,
+                "y": 320
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/3-2.tmj": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 520.3333333333333,
+                "y": 400.33333333333326
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/3-4.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.5,
+                "y": 400.5
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/3-fall.tmj": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 173.66666666666663,
+                "y": 101.33333333333334
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/3.tmj": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 305.5,
+                "y": 313
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/4.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 480.25,
+                "y": 960.25
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/5-1.tmj": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 240.33333333333331,
+                "y": 400.33333333333326
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/5-2.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 520.6666666666666,
+                "y": 400.6666666666667
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/5-3.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 560.6666666666666,
+                "y": 400.6666666666667
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/5-4.tmj": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 320.5,
+                "y": 400.5
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/5.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 288.5,
+                "y": 312.5
+            }
+        },
+        "alpha/2AlphaPath/1-Depths/Depths1.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 143,
+                "y": 681.75
+            }
+        },
+        "alpha/2AlphaPath/2-Bottom/1.tmj": {
+            "expandedObjectLayers": [
+                4,
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1380,
+                "y": 1138
+            }
+        },
+        "alpha/2AlphaPath/2-Bottom/2.tmj": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320,
+                "y": 320
+            }
+        },
+        "alpha/2AlphaPath/2-Bottom/3.tmj": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 799.9999999999999,
+                "y": 641.3333333333334
+            }
+        },
+        "alpha/2AlphaPath/2-Bottom/4.tmj": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 606.6666666666667,
+                "y": 566.6666666666665
+            }
+        },
+        "alpha/2AlphaPath/2-Bottom/5.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 799.9999999999999,
+                "y": 640
+            }
+        },
+        "alpha/2AlphaPath/3-Abyss/1.tmj": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 239,
+                "y": 951
+            }
+        },
+        "alpha/2AlphaPath/3-Abyss/2.tmj": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 479.99999999999994,
+                "y": 480
+            }
+        },
+        "alpha/2AlphaPath/3-Abyss/2.tmj#caves": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3-Abyss/2.tmj#collision": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3-Abyss/2.tmj#objects16": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3-Abyss/3.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 320,
+                "y": 360
+            }
+        },
+        "alpha/2AlphaPath/3-Abyss/4.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 279.99999999999994,
+                "y": 400
+            }
+        },
+        "alpha/2AlphaPath/3-Abyss/5.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 479.99999999999994,
+                "y": 480
+            }
+        },
+        "alpha/2AlphaPath/3-Abyss/6.tmj": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 480.66666666666663,
+                "y": 480.66666666666663
+            }
+        },
+        "alpha/2AlphaPath/3eme-chute/01-Entree.tmj": {
+            "scale": 0.2142156862745098,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 268.42105263157873,
+                "y": 891.6247139588102
+            }
+        },
+        "alpha/2AlphaPath/3eme-chute/01-Entree.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/02-PiecePrincipale1.tmj": {
+            "scale": 0.11002929687499999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2681.1041093458775,
+                "y": 2585.674980030177
+            }
+        },
+        "alpha/2AlphaPath/3eme-chute/02-PiecePrincipale1.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/02-PiecePrincipale1.tmj#MapIntro-TileSet_x8_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/03-Room4-1.tmj": {
+            "scale": 0.09418103448275862,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3801.1899313501144,
+                "y": 5229.29061784897
+            }
+        },
+        "alpha/2AlphaPath/3eme-chute/03-Room4-1.tmj#MapIntro-TileSet_x12_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/03-Room4-1.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/04-PiecePrincipale2.tmj": {
+            "scale": 0.11002929687499999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2558.4095145114056,
+                "y": 3003.7454513180087
+            }
+        },
+        "alpha/2AlphaPath/3eme-chute/04-PiecePrincipale2.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/04-PiecePrincipale2.tmj#MapIntro-TileSet_x8_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/05-Room3-1.tmj": {
+            "scale": 0.19758680555555555,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1442.4040066777964,
+                "y": 1009.6828046744575
+            }
+        },
+        "alpha/2AlphaPath/3eme-chute/05-Room3-1.tmj#MapIntro-TileSet_x10_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/05-Room3-1.tmj#MapIntro-TileSet_x3_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/07-Room1-1.tmj": {
+            "scale": 0.22436899038461536,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1149.8915226998795,
+                "y": 1664.6685415829652
+            }
+        },
+        "alpha/2AlphaPath/3eme-chute/07-Room1-1.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/08-Room2-1.tmj": {
+            "scale": 0.1046047794117647,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3049.573851155435,
+                "y": 1333.5910728406993
+            }
+        },
+        "alpha/2AlphaPath/3eme-chute/08-Room2-1.tmj#MapIntro-TileSet_x10_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/08-Room2-1.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/09-PiecePrincipale4.tmj": {
+            "scale": 0.09401041666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2685.8725761772857,
+                "y": 3004.9861495844875
+            }
+        },
+        "alpha/2AlphaPath/3eme-chute/09-PiecePrincipale4.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/09-PiecePrincipale4.tmj#MapIntro-TileSet_x8_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/10-PiecePrincipale5.tmj": {
+            "scale": 0.0987109375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2557.9738820736056,
+                "y": 3003.7198258804906
+            }
+        },
+        "alpha/2AlphaPath/3eme-chute/10-PiecePrincipale5.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/10-PiecePrincipale5.tmj#MapIntro-TileSet_x8_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/11-Room1-2.tmj": {
+            "scale": 0.2193576388888889,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1151.0882469331223,
+                "y": 1666.2287297190344
+            }
+        },
+        "alpha/2AlphaPath/3eme-chute/11-Room1-2.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/11-Room2-2.tmj": {
+            "scale": 0.09290441176470587,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2717.8472497032053,
+                "y": 1985.9121487930356
+            }
+        },
+        "alpha/2AlphaPath/3eme-chute/11-Room2-2.tmj#MapIntro-TileSet_x10_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/11-Room2-2.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/11-Room3-2.tmj": {
+            "scale": 0.10967881944444445,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2302.1764938662445,
+                "y": 2065.120696478037
+            }
+        },
+        "alpha/2AlphaPath/3eme-chute/11-Room3-2.tmj#MapIntro-TileSet_x10_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/11-Room3-2.tmj#MapIntro-TileSet_x3_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/11-Room4-2.tmj": {
+            "scale": 0.08150318287037037,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3453.8528445903967,
+                "y": 3809.667169610366
+            }
+        },
+        "alpha/2AlphaPath/3eme-chute/11-Room4-2.tmj#MapIntro-TileSet_x12_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/11-Room4-2.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/12-AucunRetourPossible.tmj": {
+            "scale": 0.41915922619047613,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 671.5824975592441,
+                "y": 382.9093813792492
+            }
+        },
+        "alpha/2AlphaPath/3eme-chute/12-AucunRetourPossible.tmj#MapIntro-TileSet_x10_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/12-AucunRetourPossible.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/3eme-chute/5.tmj": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 255.5,
+                "y": 419.5
+            }
+        },
+        "alpha/2AlphaPath/4-Loop/1.tmj": {
+            "expandedObjectLayers": [
+                3,
+                4
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 169,
+                "y": 156
+            }
+        },
+        "alpha/2AlphaPath/4-Loop/1.tmj#caves": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "alpha/2AlphaPath/4-Loop/1.tmj#collision": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        },
+        "alpha/2AlphaPath/4-Loop/2.tmj": {
+            "expandedObjectLayers": [
+                3,
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 377.33333333333326,
+                "y": 390.6666666666667
+            }
+        },
+        "alpha/2AlphaPath/4-Loop/3.tmj": {
+            "expandedObjectLayers": [
+                4,
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 484,
+                "y": 211
+            }
+        },
+        "alpha/2AlphaPath/4-Loop/4.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 479.99999999999994,
+                "y": 480
+            }
+        },
+        "alpha/2AlphaPath/4eme-chute/01-Entree.tmj": {
+            "scale": 0.093243838028169,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1538.9756903469438,
+                "y": 4547.2173707812135
+            }
+        },
+        "alpha/2AlphaPath/4eme-chute/01-Entree.tmj#MapIntro-TileSet_x10_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/4eme-chute/01-Entree.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/4eme-chute/02-Labyrinthe1.tmj": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2420,
+                "y": 3528
+            }
+        },
+        "alpha/2AlphaPath/4eme-chute/02-Labyrinthe1.tmj#MapIntro-TileSet_x10_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/4eme-chute/02-Labyrinthe1.tmj#MapIntro-TileSet_x3_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/4eme-chute/03-Labyrinthe2.tmj": {
+            "scale": 0.13240625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3364.644795846117,
+                "y": 3217.3707812131224
+            }
+        },
+        "alpha/2AlphaPath/4eme-chute/03-Labyrinthe2.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/4eme-chute/03-Labyrinthe2.tmj#MapIntro-TileSet_x8_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/4eme-chute/04-Labyrinthe3.tmj": {
+            "scale": 0.057223731884057966,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4412.504946576969,
+                "y": 4229.014641867827
+            }
+        },
+        "alpha/2AlphaPath/4eme-chute/04-Labyrinthe3.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/4eme-chute/04-Labyrinthe3.tmj#MapIntro-TileSet_x8_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/4eme-chute/05-Labyrinthe4.tmj": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 8332,
+                "y": 3792
+            }
+        },
+        "alpha/2AlphaPath/4eme-chute/05-Labyrinthe4.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/4eme-chute/05-Labyrinthe4.tmj#MapIntro-TileSet_x8_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5/1.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 400,
+                "y": 376
+            }
+        },
+        "alpha/2AlphaPath/5/2.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 443.33333333333337,
+                "y": 645.3333333333333
+            }
+        },
+        "alpha/2AlphaPath/5eme-chute/01-ChoixFinal.tmj": {
+            "scale": 0.0625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2168,
+                "y": 6624
+            }
+        },
+        "alpha/2AlphaPath/5eme-chute/01-ChoixFinal.tmj#MapIntro-TileSet_x3_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/01-ChoixFinal.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/02-FinTrou.tmj": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2360,
+                "y": 2992
+            }
+        },
+        "alpha/2AlphaPath/5eme-chute/02-FinTrou.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/03-VraieFin.tmj": {
+            "scale": 0.1955078125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2432.1278721278723,
+                "y": 639.3606393606397
+            }
+        },
+        "alpha/2AlphaPath/5eme-chute/03-VraieFin.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/03-VraieFin.tmj#MapIntro-TileSet_x6_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/04-CheminVersLeVide.tmj": {
+            "scale": 0.096484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4928.259109311742,
+                "y": 507.85425101214605
+            }
+        },
+        "alpha/2AlphaPath/5eme-chute/04-CheminVersLeVide.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/05-CheminFinal2.tmj": {
+            "scale": 0.13240625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2681.142317677602,
+                "y": 3202.2657540712767
+            }
+        },
+        "alpha/2AlphaPath/5eme-chute/05-CheminFinal2.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/05-CheminFinal2.tmj#MapIntro-TileSet_x8_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/06-CheminFinal3.tmj": {
+            "scale": 0.13240625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2684.9185744630636,
+                "y": 3202.2657540712767
+            }
+        },
+        "alpha/2AlphaPath/5eme-chute/06-CheminFinal3.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/06-CheminFinal3.tmj#MapIntro-TileSet_x8_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/07-CheminFinal4.tmj": {
+            "scale": 0.04874614197530864,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 5179.897111199051,
+                "y": 5385.041551246537
+            }
+        },
+        "alpha/2AlphaPath/5eme-chute/07-CheminFinal4.tmj#MapIntro-TileSet_x10_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/07-CheminFinal4.tmj#MapIntro-TileSet_x6_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/08-CheminFinal5.tmj": {
+            "scale": 0.123388671875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2046.379105658884,
+                "y": 380.9101701622476
+            }
+        },
+        "alpha/2AlphaPath/5eme-chute/08-CheminFinal5.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/09-CheminFinal6.tmj": {
+            "scale": 0.206884765625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2049.4500826056174,
+                "y": 2049.4500826056174
+            }
+        },
+        "alpha/2AlphaPath/5eme-chute/09-CheminFinal6.tmj#MapIntro-TileSet_x10_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/09-CheminFinal6.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/10-CheminFinal7.tmj": {
+            "scale": 0.125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 3396,
+                "y": 3024
+            }
+        },
+        "alpha/2AlphaPath/5eme-chute/10-CheminFinal7.tmj#MapIntro-TileSet_x4_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/10-CheminFinal7.tmj#MapIntro-TileSet_x8_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/11-CheminFinal8.tmj": {
+            "scale": 0.19189311594202899,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1154.2884116119894,
+                "y": 2209.563370309181
+            }
+        },
+        "alpha/2AlphaPath/5eme-chute/11-CheminFinal8.tmj#MapIntro-TileSet_x10_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/11-CheminFinal8.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/13-BoucleFinale1.tmj": {
+            "scale": 0.1151828972868217,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4123.876123876124,
+                "y": 833.4570692465427
+            }
+        },
+        "alpha/2AlphaPath/5eme-chute/13-BoucleFinale1.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/13-BoucleFinale1.tmj#MapIntro-TileSet_x6_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/14-BoucleFinale2.tmj": {
+            "scale": 0.17407670454545454,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2814.851081191351,
+                "y": 1154.6634026927786
+            }
+        },
+        "alpha/2AlphaPath/5eme-chute/14-BoucleFinale2.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/14-BoucleFinale2.tmj#MapIntro-TileSet_x8_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/15-BoucleFinale3.tmj": {
+            "scale": 0.054443359375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3526.6008968609867,
+                "y": 8485.88340807175
+            }
+        },
+        "alpha/2AlphaPath/5eme-chute/15-BoucleFinale3.tmj#MapIntro-TileSet_x10_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/5eme-chute/15-BoucleFinale3.tmj#MapIntro-TileSet_x2_0": {
+            "scaleInDock": 1
+        },
+        "alpha/2AlphaPath/EntreeAlpha.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 278,
+                "y": 464
+            }
+        },
+        "alpha/templates/DepthMainRoom.tmj": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1135,
+                "y": 1023
+            }
+        },
+        "alpha/tilesets/caves.tsx": {
+            "scaleInDock": 1
+        },
+        "alpha/tilesets/collision.tsx": {
+            "scaleInDock": 1
+        },
+        "alpha/tilesets/objects16.tsx": {
+            "scaleInDock": 1
+        },
+        "alpha/tilesets/objects64.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/alpha.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "tilesets/caves.tsx": {
+            "scaleInDock": 1.5
+        },
+        "tilesets/collision.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 4,
+            "scaleInEditor": 5.5
+        },
+        "tilesets/objects16.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "tilesets/objects64.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/trist/PhpstormProjects/SiteN0Realis/src/Neant/public/assets/games/chris-earch/tilemaps/alpha/2AlphaPath",
+    "last.externalTilesetPath": "C:/Users/miste/Documents/GitHub/SiteN0Realis/SiteN0Realis/src/Neant/public/assets/games/chris-earch/tiled/tilesets",
+    "last.imagePath": "C:/Users/miste/Documents/GitHub/SiteN0Realis/SiteN0Realis/src/Neant/public/assets/games/chris-earch/tiled/tilesets",
+    "map.fixedSize": true,
+    "map.height": 60,
+    "map.lastUsedExportFilter": "Fichiers de carte JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.orientation": "1",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 60,
+    "openFiles": [
+        "alpha/templates/DepthMainRoom.tmj",
+        "alpha/2AlphaPath/1-Depths/3.tmj",
+        "alpha/2AlphaPath/1-Depths/3-4.tmj",
+        "alpha/2AlphaPath/1-Depths/3-2.tmj",
+        "alpha/2AlphaPath/1-Depths/4.tmj",
+        "alpha/2AlphaPath/1-Depths/5.tmj",
+        "alpha/2AlphaPath/1-Depths/5-1.tmj",
+        "alpha/2AlphaPath/1-Depths/5-2.tmj",
+        "alpha/2AlphaPath/1-Depths/5-3.tmj",
+        "alpha/2AlphaPath/1-Depths/5-4.tmj",
+        "alpha/2AlphaPath/2-Bottom/1.tmj",
+        "alpha/2AlphaPath/2-Bottom/2.tmj",
+        "alpha/2AlphaPath/2-Bottom/3.tmj",
+        "alpha/2AlphaPath/2-Bottom/4.tmj",
+        "alpha/2AlphaPath/2-Bottom/5.tmj",
+        "alpha/2AlphaPath/3-Abyss/1.tmj",
+        "alpha/2AlphaPath/3-Abyss/2.tmj",
+        "alpha/2AlphaPath/3-Abyss/3.tmj",
+        "alpha/2AlphaPath/3-Abyss/4.tmj",
+        "alpha/2AlphaPath/3-Abyss/5.tmj",
+        "alpha/2AlphaPath/3-Abyss/6.tmj",
+        "alpha/2AlphaPath/1-Depths/1.tmj",
+        "alpha/2AlphaPath/1-Depths/0-Entrance.tmj",
+        "alpha/2AlphaPath/4-Loop/4.tmj",
+        "alpha/2AlphaPath/5/1.tmj",
+        "alpha/2AlphaPath/5/2.tmj",
+        "alpha/1Introduction/IntroMap.tmj",
+        "alpha/1Introduction/IntroMap1.tmj",
+        "alpha/1Introduction/RosieFight.tmj",
+        "alpha/1Introduction/IntroMap4.tmj",
+        "alpha/2AlphaPath/1-Depths/2.tmj",
+        "alpha/1Introduction/IntroMap2.tmj",
+        "alpha/1Introduction/IntroMap3.tmj",
+        "alpha/2AlphaPath/EntreeAlpha.tmj"
+    ],
+    "project": "chrisearch.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "alpha/templates/DepthMainRoom.tmj",
+        "alpha/2AlphaPath/1-Depths/3.tmj",
+        "alpha/2AlphaPath/1-Depths/3-4.tmj",
+        "alpha/2AlphaPath/1-Depths/3-2.tmj",
+        "alpha/2AlphaPath/1-Depths/4.tmj",
+        "alpha/2AlphaPath/1-Depths/5.tmj",
+        "alpha/2AlphaPath/1-Depths/5-1.tmj",
+        "alpha/2AlphaPath/1-Depths/5-2.tmj",
+        "alpha/2AlphaPath/1-Depths/5-3.tmj",
+        "alpha/2AlphaPath/1-Depths/5-4.tmj",
+        "alpha/2AlphaPath/2-Bottom/1.tmj",
+        "alpha/2AlphaPath/2-Bottom/2.tmj"
+    ],
+    "tileset.lastUsedFilter": "Fichiers de jeu de tuiles Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
