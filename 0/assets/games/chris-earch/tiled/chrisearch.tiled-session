@@ -1,23 +1,23 @@
 {
-    "activeFile": "alpha/2AlphaPath/1-Depths/0-Entrance.tmj",
+    "activeFile": "alpha/2AlphaPath/1-Depths/4.tmj",
     "expandedProjectPaths": [
-        "alpha/01- Introduction",
-        "alpha/2AlphaPath/1-Depths",
-        "alpha/02- 3eme Chute",
-        "alpha/2AlphaPath/3-Abyss",
-        "alpha/1Introduction",
-        "alpha/2AlphaPath/4-Loop",
-        "alpha/04- Choix final",
-        "alpha/2AlphaPath/2-Bottom",
         "tilesets",
-        "alpha/2AlphaPath/4eme-chute",
+        "alpha/1Introduction",
+        ".",
         "alpha/2AlphaPath",
+        "alpha/2AlphaPath/3-Abyss",
+        "alpha",
+        "alpha/2AlphaPath/2-Bottom",
+        "alpha/03- 4eme Chute",
+        "alpha/2AlphaPath/4-Loop",
+        "alpha/02- 3eme Chute",
         "alpha/2AlphaPath/5",
         "alpha/2AlphaPath/5eme-chute",
-        "alpha/03- 4eme Chute",
-        "alpha",
-        ".",
-        "alpha/templates"
+        "alpha/templates",
+        "alpha/04- Choix final",
+        "alpha/2AlphaPath/1-Depths",
+        "alpha/2AlphaPath/4eme-chute",
+        "alpha/01- Introduction"
     ],
     "fileStates": {
         "": {
@@ -678,8 +678,8 @@
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 295.33333333333337,
-                "y": 149.33333333333334
+                "x": 239.99999999999997,
+                "y": 160
             }
         },
         "alpha/1Introduction/objects16.tsx": {
@@ -712,8 +712,8 @@
             "scale": 4,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 121.5,
-                "y": 933.5
+                "x": 160,
+                "y": 640
             }
         },
         "alpha/2AlphaPath/1-Depths/1-1.tmj": {
@@ -757,8 +757,8 @@
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 320,
-                "y": 320
+                "x": 319,
+                "y": 319
             }
         },
         "alpha/2AlphaPath/1-Depths/2-1.tmj": {
@@ -768,8 +768,8 @@
             "scale": 4,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 171.75,
-                "y": 258
+                "x": 200,
+                "y": 280
             }
         },
         "alpha/2AlphaPath/1-Depths/2-2.tmj": {
@@ -845,19 +845,19 @@
             "scale": 2,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 305.5,
-                "y": 313
+                "x": 320.25,
+                "y": 400.25
             }
         },
         "alpha/2AlphaPath/1-Depths/4.tmj": {
             "expandedObjectLayers": [
                 3
             ],
-            "scale": 2,
+            "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 480.25,
-                "y": 960.25
+                "x": 489.33333333333337,
+                "y": 560
             }
         },
         "alpha/2AlphaPath/1-Depths/5-1.tmj": {
@@ -936,14 +936,14 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1380,
-                "y": 1138
+                "x": 1979,
+                "y": 1508
             }
         },
         "alpha/2AlphaPath/2-Bottom/2.tmj": {
             "expandedObjectLayers": [
-                3,
-                2
+                2,
+                3
             ],
             "scale": 1,
             "selectedLayer": 0,
@@ -961,7 +961,7 @@
             "selectedLayer": 3,
             "viewCenter": {
                 "x": 799.9999999999999,
-                "y": 641.3333333333334
+                "y": 640
             }
         },
         "alpha/2AlphaPath/2-Bottom/4.tmj": {
@@ -972,8 +972,8 @@
             "scale": 0.75,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 606.6666666666667,
-                "y": 566.6666666666665
+                "x": 799.9999999999999,
+                "y": 640
             }
         },
         "alpha/2AlphaPath/2-Bottom/5.tmj": {
@@ -995,8 +995,8 @@
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 239,
-                "y": 951
+                "x": 320,
+                "y": 800
             }
         },
         "alpha/2AlphaPath/3-Abyss/2.tmj": {
@@ -1061,8 +1061,8 @@
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 480.66666666666663,
-                "y": 480.66666666666663
+                "x": 479.99999999999994,
+                "y": 480
             }
         },
         "alpha/2AlphaPath/3eme-chute/01-Entree.tmj": {
@@ -1300,8 +1300,8 @@
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 484,
-                "y": 211
+                "x": 480,
+                "y": 320
             }
         },
         "alpha/2AlphaPath/4-Loop/4.tmj": {
@@ -1403,8 +1403,8 @@
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 443.33333333333337,
-                "y": 645.3333333333333
+                "x": 479.99999999999994,
+                "y": 480
             }
         },
         "alpha/2AlphaPath/5eme-chute/01-ChoixFinal.tmj": {
@@ -1601,8 +1601,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 278,
-                "y": 464
+                "x": 240,
+                "y": 480
             }
         },
         "alpha/templates/DepthMainRoom.tmj": {
@@ -1694,7 +1694,9 @@
         "alpha/2AlphaPath/1-Depths/2.tmj",
         "alpha/1Introduction/IntroMap2.tmj",
         "alpha/1Introduction/IntroMap3.tmj",
-        "alpha/2AlphaPath/EntreeAlpha.tmj"
+        "alpha/2AlphaPath/EntreeAlpha.tmj",
+        "alpha/2AlphaPath/1-Depths/2-1.tmj",
+        "alpha/2AlphaPath/4-Loop/3.tmj"
     ],
     "project": "chrisearch.tiled-project",
     "property.type": "bool",
@@ -1703,14 +1705,14 @@
         "alpha/2AlphaPath/1-Depths/3.tmj",
         "alpha/2AlphaPath/1-Depths/3-4.tmj",
         "alpha/2AlphaPath/1-Depths/3-2.tmj",
-        "alpha/2AlphaPath/1-Depths/4.tmj",
-        "alpha/2AlphaPath/1-Depths/5.tmj",
-        "alpha/2AlphaPath/1-Depths/5-1.tmj",
-        "alpha/2AlphaPath/1-Depths/5-2.tmj",
-        "alpha/2AlphaPath/1-Depths/5-3.tmj",
-        "alpha/2AlphaPath/1-Depths/5-4.tmj",
-        "alpha/2AlphaPath/2-Bottom/1.tmj",
-        "alpha/2AlphaPath/2-Bottom/2.tmj"
+        "alpha/2AlphaPath/4-Loop/3.tmj",
+        "alpha/2AlphaPath/1-Depths/2-1.tmj",
+        "alpha/2AlphaPath/EntreeAlpha.tmj",
+        "alpha/1Introduction/IntroMap3.tmj",
+        "alpha/1Introduction/IntroMap2.tmj",
+        "alpha/2AlphaPath/1-Depths/2.tmj",
+        "alpha/1Introduction/IntroMap4.tmj",
+        "alpha/1Introduction/RosieFight.tmj"
     ],
     "tileset.lastUsedFilter": "Fichiers de jeu de tuiles Tiled (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",

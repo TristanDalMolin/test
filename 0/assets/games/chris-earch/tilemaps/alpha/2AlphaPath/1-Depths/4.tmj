@@ -604,7 +604,7 @@
                         {
                          "name":"steps",
                          "type":"string",
-                         "value":"[\n  {\n    \"type\": \"parallel\",\n    \"tracks\": [\n      [\n        {\n          \"type\": \"move\",\n          \"target\": \"enemy:rosie1\",\n          \"to\": \"point:rosie-retreat\",\n          \"speed\": 300\n        },\n        {\n          \"type\": \"hide\",\n          \"target\": \"enemy:rosie1\"\n        }\n      ],\n      [\n        {\n          \"type\": \"move\",\n          \"target\": \"enemy:rosie2\",\n          \"to\": \"point:rosie-retreat\",\n          \"speed\": 300\n        },\n        {\n          \"type\": \"hide\",\n          \"target\": \"enemy:rosie2\"\n        }\n      ],\n      [\n        {\n          \"type\": \"move\",\n          \"target\": \"enemy:rosie3\",\n          \"to\": \"point:rosie-retreat\",\n          \"speed\": 300\n        },\n        {\n          \"type\": \"hide\",\n          \"target\": \"enemy:rosie3\"\n        }\n      ],\n      [\n        {\n          \"type\": \"move\",\n          \"target\": \"enemy:rosie4\",\n          \"to\": \"point:rosie-retreat\",\n          \"speed\": 300\n        },\n        {\n          \"type\": \"hide\",\n          \"target\": \"enemy:rosie4\"\n        }\n      ],\n      [\n        {\n          \"type\": \"show\",\n          \"target\": \"enemy:bigRosie\"\n        }\n      ]\n    ]\n  }\n]"
+                         "value":"[  {    \"type\": \"parallel\",    \"tracks\": [      [    {    \"type\": \"attacks\", \"target\":\"enemy:rosie1\",    \"enabled\": false  },    {          \"type\": \"move\",          \"target\": \"enemy:rosie1\",          \"to\": \"point:rosie-retreat\",          \"speed\": 300        },        {          \"type\": \"hide\",          \"target\": \"enemy:rosie1\"        }      ],      [       {    \"type\": \"attacks\", \"target\":\"enemy:rosie2\",    \"enabled\": false  }, {          \"type\": \"move\",          \"target\": \"enemy:rosie2\",          \"to\": \"point:rosie-retreat\",          \"speed\": 300        },        {          \"type\": \"hide\",          \"target\": \"enemy:rosie2\"        }      ],      [       {    \"type\": \"attacks\", \"target\":\"enemy:rosie3\",    \"enabled\": false  }, {          \"type\": \"move\",          \"target\": \"enemy:rosie3\",          \"to\": \"point:rosie-retreat\",          \"speed\": 300        },        {          \"type\": \"hide\",          \"target\": \"enemy:rosie3\"        }      ],      [      {    \"type\": \"attacks\", \"target\":\"enemy:rosie4\",    \"enabled\": false  },  {          \"type\": \"move\",          \"target\": \"enemy:rosie4\",          \"to\": \"point:rosie-retreat\",          \"speed\": 300        },        {          \"type\": \"hide\",          \"target\": \"enemy:rosie4\"        }      ],      [        {          \"type\": \"show\",          \"target\": \"enemy:bigRosie\"        }      ]    ]  }]"
                         }],
                  "rotation":0,
                  "type":"",
@@ -659,36 +659,12 @@
  "tileheight":16,
  "tilesets":[
         {
-         "columns":32,
          "firstgid":1,
-         "grid":
-            {
-             "height":8,
-             "orientation":"orthogonal",
-             "width":8
-            },
-         "image":"..\/..\/..\/tilesets\/cave.png",
-         "imageheight":336,
-         "imagewidth":512,
-         "margin":0,
-         "name":"caves",
-         "spacing":0,
-         "tilecount":672,
-         "tileheight":16,
-         "tilewidth":16
+         "source":"..\/..\/..\/..\/tiled\/tilesets\/caves.tsx"
         }, 
         {
-         "columns":5,
          "firstgid":673,
-         "image":"..\/..\/..\/tilesets\/Collision.png",
-         "imageheight":64,
-         "imagewidth":80,
-         "margin":0,
-         "name":"collision",
-         "spacing":0,
-         "tilecount":20,
-         "tileheight":16,
-         "tilewidth":16
+         "source":"..\/..\/..\/..\/tiled\/tilesets\/collision.tsx"
         }],
  "tilewidth":16,
  "type":"map",
