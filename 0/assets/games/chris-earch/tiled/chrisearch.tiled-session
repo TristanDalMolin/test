@@ -1,23 +1,23 @@
 {
-    "activeFile": "alpha/2AlphaPath/1-Depths/4.tmj",
+    "activeFile": "alpha/1Introduction/IntroMap1.tmj",
     "expandedProjectPaths": [
-        "tilesets",
         "alpha/1Introduction",
+        "alpha/04- Choix final",
+        "alpha/2AlphaPath/4eme-chute",
+        "alpha/02- 3eme Chute",
+        "alpha/2AlphaPath/2-Bottom",
+        "alpha/2AlphaPath/5eme-chute",
+        "alpha/2AlphaPath/5",
+        "alpha/2AlphaPath/1-Depths",
+        "alpha/2AlphaPath/4-Loop",
         ".",
         "alpha/2AlphaPath",
-        "alpha/2AlphaPath/3-Abyss",
-        "alpha",
-        "alpha/2AlphaPath/2-Bottom",
+        "alpha/01- Introduction",
         "alpha/03- 4eme Chute",
-        "alpha/2AlphaPath/4-Loop",
-        "alpha/02- 3eme Chute",
-        "alpha/2AlphaPath/5",
-        "alpha/2AlphaPath/5eme-chute",
+        "alpha/2AlphaPath/3-Abyss",
+        "tilesets",
         "alpha/templates",
-        "alpha/04- Choix final",
-        "alpha/2AlphaPath/1-Depths",
-        "alpha/2AlphaPath/4eme-chute",
-        "alpha/01- Introduction"
+        "alpha"
     ],
     "fileStates": {
         "": {
@@ -622,8 +622,8 @@
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 319.99999999999994,
-                "y": 400
+                "x": 318.66666666666663,
+                "y": 256
             }
         },
         "alpha/1Introduction/IntroMap1.tmj#caves": {
@@ -1705,14 +1705,14 @@
         "alpha/2AlphaPath/1-Depths/3.tmj",
         "alpha/2AlphaPath/1-Depths/3-4.tmj",
         "alpha/2AlphaPath/1-Depths/3-2.tmj",
-        "alpha/2AlphaPath/4-Loop/3.tmj",
-        "alpha/2AlphaPath/1-Depths/2-1.tmj",
-        "alpha/2AlphaPath/EntreeAlpha.tmj",
-        "alpha/1Introduction/IntroMap3.tmj",
-        "alpha/1Introduction/IntroMap2.tmj",
-        "alpha/2AlphaPath/1-Depths/2.tmj",
-        "alpha/1Introduction/IntroMap4.tmj",
-        "alpha/1Introduction/RosieFight.tmj"
+        "alpha/2AlphaPath/1-Depths/4.tmj",
+        "alpha/2AlphaPath/1-Depths/5.tmj",
+        "alpha/2AlphaPath/1-Depths/5-1.tmj",
+        "alpha/2AlphaPath/1-Depths/5-2.tmj",
+        "alpha/2AlphaPath/1-Depths/5-3.tmj",
+        "alpha/2AlphaPath/1-Depths/5-4.tmj",
+        "alpha/2AlphaPath/2-Bottom/1.tmj",
+        "alpha/2AlphaPath/2-Bottom/2.tmj"
     ],
     "tileset.lastUsedFilter": "Fichiers de jeu de tuiles Tiled (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",
