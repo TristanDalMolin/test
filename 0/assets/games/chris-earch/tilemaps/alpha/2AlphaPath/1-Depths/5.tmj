@@ -302,7 +302,7 @@
                         {
                          "name":"steps",
                          "type":"string",
-                         "value":"[\n  {\n    \"type\": \"if\",\n    \"flag\": \"solitude2Started\",\n    \"equals\": false,\n    \"then\": [\n      {\"type\": \"move\", \"target\": \"player\", \"to\": \"point:1\"},\n      {\"type\": \"face\", \"target\": \"player\", \"direction\": \"up\"},\n      {\"type\": \"dialogue\", \"dialogueId\": \"4.robert.statue\", \"delay\": 200},\n      {\"type\": \"flag\", \"name\": \"solitude2Started\", \"value\": true},\n      {\"type\": \"save\", \"spawn\": \"default\"}\n    ]\n  },\n  {\n    \"type\": \"music\",\n    \"file\": \"4 Solitude Part2.mp3\"\n  }\n]"
+                         "value":"[\n  {\n    \"type\": \"if\",\n    \"flag\": \"solitude2Started\",\n    \"equals\": false,\n    \"then\": [\n      {\n        \"type\": \"move\",\n        \"target\": \"player\",\n        \"to\": \"point:1\"\n      },\n      {\n        \"type\": \"face\",\n        \"target\": \"player\",\n        \"direction\": \"up\"\n      },\n      {\n        \"type\": \"dialogue\",\n        \"dialogueId\": \"4.robert.statue\",\n        \"delay\": 200\n      },\n      {\n        \"type\": \"flag\",\n        \"name\": \"solitude2Started\",\n        \"value\": true\n      },\n      {\n        \"type\": \"save\",\n        \"spawn\": \"default\"\n      }\n    ]\n  },\n  {\n    \"type\": \"music\",\n    \"file\": \"4 Solitude Part2.ogg\"\n  }\n]"
                         }],
                  "rotation":0,
                  "type":"",

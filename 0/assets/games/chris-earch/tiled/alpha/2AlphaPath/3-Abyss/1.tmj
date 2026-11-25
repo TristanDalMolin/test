@@ -325,7 +325,7 @@
                         {
                          "name":"steps",
                          "type":"string",
-                         "value":"[ {    \"type\": \"flag\",\"name\": \"showHUD\",\"value\": false}, {    \"type\": \"move\",    \"target\": \"player\",    \"to\": \"point:statue\"  },  {    \"type\": \"face\",    \"target\": \"player\",\"direction\": \"up\" },{    \"type\": \"dialogue\",    \"dialogueId\": \"5.choice\",    \"delay\": 200  },  {    \"type\": \"music\",    \"file\": \"5 Un choix n\u00e9cessaire.mp3\" }]"
+                         "value":"[ {    \"type\": \"flag\",\"name\": \"showHUD\",\"value\": false}, {    \"type\": \"move\",    \"target\": \"player\",    \"to\": \"point:statue\"  },  {    \"type\": \"face\",    \"target\": \"player\",\"direction\": \"up\" },{    \"type\": \"dialogue\",    \"dialogueId\": \"5.choice\",    \"delay\": 200  },  {    \"type\": \"music\",    \"file\": \"5 Un choix n\u00e9cessaire.ogg\" }]"
                         }],
                  "rotation":0,
                  "type":"",

@@ -143,7 +143,7 @@
                         {
                          "name":"steps",
                          "type":"string",
-                         "value":"[\n  {\"type\": \"move\", \"target\": \"player\", \"to\": \"point:1\"},\n  {\"type\": \"face\", \"target\": \"player\", \"direction\": \"down\"},\n  {\"type\": \"dialogue\", \"dialogueId\": \"intro\", \"delay\": 300},\n  {\"type\": \"save\", \"spawn\": \"default\"}\n]"
+                         "value":"[\n  {\"type\": \"move\", \"target\": \"player\", \"to\": \"point:1\"},\n  {\"type\": \"face\", \"target\": \"player\", \"direction\": \"down\"},\n  {\"type\": \"dialogue\", \"dialogueId\": \"intro\", \"delay\": 300},\n  {\"type\": \"save\", \"spawn\": \"2\"}\n]"
                         }],
                  "rotation":0,
                  "type":"",
@@ -155,15 +155,15 @@
                 {
                  "height":0,
                  "id":2,
-                 "name":"spawn:default",
+                 "name":"spawn:2",
                  "opacity":1,
                  "point":true,
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":72,
-                 "y":63.333333333
+                 "x":72.25,
+                 "y":105.083333333
                 }, 
                 {
                  "height":0,
@@ -181,7 +181,7 @@
                 {
                  "height":60.6667,
                  "id":4,
-                 "name":"event:start",
+                 "name":"event:block",
                  "opacity":1,
                  "properties":[
                         {
@@ -199,7 +199,7 @@
                  "visible":true,
                  "width":99.3333,
                  "x":23.0000166666667,
-                 "y":2.99998333333333
+                 "y":4.99998333333333
                 }, 
                 {
                  "height":0,
@@ -249,6 +249,19 @@
                  "width":0,
                  "x":453.333333333333,
                  "y":411.333333333333
+                }, 
+                {
+                 "height":0,
+                 "id":8,
+                 "name":"spawn:default",
+                 "opacity":1,
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":71.25,
+                 "y":60.25
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -257,7 +270,7 @@
          "y":0
         }],
  "nextlayerid":4,
- "nextobjectid":8,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "properties":[
         {

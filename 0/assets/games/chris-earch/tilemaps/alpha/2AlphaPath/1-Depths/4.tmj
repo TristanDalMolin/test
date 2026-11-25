@@ -659,12 +659,36 @@
  "tileheight":16,
  "tilesets":[
         {
+         "columns":32,
          "firstgid":1,
-         "source":"..\/..\/..\/..\/tiled\/tilesets\/caves.tsx"
+         "grid":
+            {
+             "height":8,
+             "orientation":"orthogonal",
+             "width":8
+            },
+         "image":"..\/..\/..\/tilesets\/cave.png",
+         "imageheight":336,
+         "imagewidth":512,
+         "margin":0,
+         "name":"caves",
+         "spacing":0,
+         "tilecount":672,
+         "tileheight":16,
+         "tilewidth":16
         }, 
         {
+         "columns":5,
          "firstgid":673,
-         "source":"..\/..\/..\/..\/tiled\/tilesets\/collision.tsx"
+         "image":"..\/..\/..\/tilesets\/Collision.png",
+         "imageheight":64,
+         "imagewidth":80,
+         "margin":0,
+         "name":"collision",
+         "spacing":0,
+         "tilecount":20,
+         "tileheight":16,
+         "tilewidth":16
         }],
  "tilewidth":16,
  "type":"map",
