@@ -159,19 +159,19 @@
                         {
                          "name":"targetScene",
                          "type":"string",
-                         "value":"depths-main-3"
+                         "value":"depths-main-5"
                         }, 
                         {
                          "name":"targetSpawn",
                          "type":"string",
-                         "value":"1"
+                         "value":"4"
                         }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":78.4167,
-                 "x":368.124983333333,
-                 "y":622.083333333333
+                 "x":368.306801515151,
+                 "y":641.537878787879
                 }, 
                 {
                  "height":0,
